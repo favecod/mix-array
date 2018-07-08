@@ -1,4 +1,4 @@
-# Shuffle Array
+# Mix Array
 This code used for mixing array.
 ## Demo
 You can see demo [here](https://favecode.github.io/mix)
