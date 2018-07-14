@@ -1,3 +1,4 @@
+[![license](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/favecode/mix-array/blob/master/LICENSE)
 # Mix Array
 This code used for mixing array.
 ## Demo
@@ -26,6 +27,6 @@ Mixed array is ready for use!
 [6,3,5,1,4,2]
 ```
 ## License
-[MIT](https://github.com/favecode/mix/blob/master/LICENSE)
+[MIT](https://github.com/favecode/mix-array/blob/master/LICENSE)
 
 Copyright (c) 2018 Mohammad Mehdi
