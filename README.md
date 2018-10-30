@@ -1,17 +1,15 @@
 [![license](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/favecode/mix-array/blob/master/LICENSE)
 # Mix Array
 This code used for mixing array.
-## Demo
-You can see demo [here](https://favecode.github.io/mix)
 
-## Screenshot
+## Demo 
 Before mixing
 
-<img src="https://favecode.github.io/mix/before.png" width="400"/>
+<img src="https://favecode.github.io/mix-array/before.png" width="400"/>
 
 After mixing
 
-<img src="https://favecode.github.io/mix/after.png" width="400"/>
+<img src="https://favecode.github.io/mix-array/after.png" width="400"/>
 
 ## How to use?
 For example, we first define an array.
