@@ -5,11 +5,11 @@ This code used for mixing array.
 ## Demo 
 Before mixing
 
-<img src="https://favecode.github.io/mix-array/before.png" width="400"/>
+<img src="https://github.com/favecode/mix-array/blob/master/before.png" width="400"/>
 
 After mixing
 
-<img src="https://favecode.github.io/mix-array/after.png" width="400"/>
+<img src="https://github.com/favecode/mix-array/blob/master/after.png" width="400"/>
 
 ## How to use?
 For example, we first define an array.
